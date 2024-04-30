@@ -12,7 +12,7 @@
 
 - 👯 Me interesa colaborar en proyectos front-end y back-end.
   
-- Busco mi primer empleo en el mundo IT.
+- 👨🏻‍💻 Busco mi primer empleo en el mundo IT.
 
 <br>
 <!--Contacto-->
