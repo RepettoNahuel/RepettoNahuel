@@ -10,9 +10,9 @@
 
 - 🌐 Actualmente realizo el curso de Desarrollo Full Stack Java de CodoaCodo.
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
-
-- ⚡ What I like to do: **I like so much reading, training at the gym, play video games with friends...and coding of course**
+- 👯 Me interesa colaborar en proyectos front-end y back-end.
+  
+- Busco mi primer empleo en el mundo IT.
 
 <br>
 <!--Contacto-->
