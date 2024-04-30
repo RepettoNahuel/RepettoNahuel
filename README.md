@@ -15,6 +15,7 @@
 - 👨🏻‍💻 Busco mi primer empleo en el mundo IT.
 
 <br>
+
 <!--Contacto-->
 <h3 align="center">Conectate conmigo:</h3>
 <div align="center">
@@ -25,6 +26,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
+
+<br>
 
 <!--habilidades-->
 <h3 align="center">Mis habilidades:</h3>
@@ -38,6 +41,8 @@
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="git" width="40" height="40"/> 
 </p>
+
+<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
