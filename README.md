@@ -10,8 +10,6 @@
 
 - 🌐 Actualmente realizo el curso de Desarrollo Full Stack Java de CodoaCodo.
 
-- 🌱 I’m currently learning **React JS in CoderHouse bootcamp**
-
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
 - ⚡ What I like to do: **I like so much reading, training at the gym, play video games with friends...and coding of course**
