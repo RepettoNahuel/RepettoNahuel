@@ -3,7 +3,6 @@
   <h3 align="center">Un apasionado desarrollador y estudiante de Ingeniería en Informática de Argentina</h3>
 </div>
 
-##Sobre mi
 - 🌐 I’m currently working on my **JS Portfolio**
 
 - 🌱 I’m currently learning **React JS in CoderHouse bootcamp**
@@ -18,7 +17,14 @@
   [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:repettonahuelbautista@gmail.com)
 </div>
 
-##Sobre mi
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunomiceli/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno_miceli1/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brunomicelio52@gmail.com)
+  
+</div>
+
 <h3 align="center">Mis habilidades:</h3>
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
