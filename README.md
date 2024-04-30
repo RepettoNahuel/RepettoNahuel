@@ -5,7 +5,10 @@
 
 <!--Sobre Mi-->
 <h3 align="center">Un apasionado desarrollador y estudiante de Ingeniería en Informática de Argentina</h3>
-- 🌐 I’m currently working on my **JS Portfolio**
+
+- 💻 Me encuentro en cuarto año de Ingeniería en Informática en la UNLaM.
+
+- 🌐 Actualmente realizo el curso de Desarrollo Full Stack Java de CodoaCodo.
 
 - 🌱 I’m currently learning **React JS in CoderHouse bootcamp**
 
