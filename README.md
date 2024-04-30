@@ -1,8 +1,10 @@
+<!--TITULO-->
 <div align="center">
-  <h1 align="center">Hola, soy Nahuel Repetto 👋</h1>
-  <h3 align="center">Un apasionado desarrollador y estudiante de Ingeniería en Informática de Argentina</h3>
+  <h1 align="center">Hola, soy Nahuel Repetto 👋</h1>  
 </div>
 
+<!--Sobre Mi-->
+<h3 align="center">Un apasionado desarrollador y estudiante de Ingeniería en Informática de Argentina</h3>
 - 🌐 I’m currently working on my **JS Portfolio**
 
 - 🌱 I’m currently learning **React JS in CoderHouse bootcamp**
@@ -11,6 +13,8 @@
 
 - ⚡ What I like to do: **I like so much reading, training at the gym, play video games with friends...and coding of course**
 
+<br>
+<!--Contacto-->
 <h3 align="center">Conectate conmigo:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/nahuel-repetto" target="_blank"> 
@@ -21,6 +25,7 @@
   </a>
 </div>
 
+<!--habilidades-->
 <h3 align="center">Mis habilidades:</h3>
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -43,11 +48,14 @@
   </a>
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=mekanicas&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekanicas&theme=react&layout=compact" />
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RepettoNahuel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RepettoNahuel&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 ------
-
-[BrunoMiceli](https://github.com/mekanicas)
+[RepettoNahuel](https://github.com/RepettoNahuel)
